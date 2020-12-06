@@ -1,0 +1,10 @@
+@@Card($title,$desc)
+<h1>$title<h2>
+<p>$desc</p>
+@@
+
+<html>
+    <body>
+        ?Card("Hello","HelloWorld");
+    </body>
+</html>
