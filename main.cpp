@@ -18,8 +18,6 @@ int main(){
 
                 if( i<lsize-1 && line[i]=='@' && line[i+1]=='@')
                 {kimeru::parseTemplate()}
-                //Give parsing control to Kimeru?
-                //Sol: send file and index references
 
             }
         }
